@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.ada.letscode</groupId>
-	<artifactId>monitoramentoEolico</artifactId>
+	<artifactId>pontoBra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>demo</description>
+	<name>PontoBra</name>
+	<description>Relogio de ponto</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
